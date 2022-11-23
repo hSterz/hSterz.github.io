@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-*10/2022 - present : Student Research Assistant
-  * Ubiquitious Knowledge Processing Lab
+* 10/2022 - present : Student Research Assistant
+  * Ubiquitous Knowledge Processing Lab
   * Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
 
 * 11/2020 - 05/2022: Data Engineering intern
@@ -25,7 +25,7 @@ Work experience
   
 
 * 11/2020 - 05/2022: Student Research Assistant
-  * Ubiquitious Knowledge Processing Lab
+  * Ubiquitous Knowledge Processing Lab
   * since 11/2020: Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
   * since 04/2021: Contributing to engineering a question answering platform.
 
