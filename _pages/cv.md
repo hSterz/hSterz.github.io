@@ -11,41 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, TU Darmstadt, 2021
+* M.S. in Computer Science, TU Darmstadt, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*10/2022 - present : Student Research Assistant
+  * Ubiquitious Knowledge Processing Lab
+  * Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11/2020 - 05/2022: Data Engineering intern
+  * Meta
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 11/2020 - 05/2022: Student Research Assistant
+  * Ubiquitious Knowledge Processing Lab
+  * since 11/2020: Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
+  * since 04/2021: Contributing to engineering a question answering platform.
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +42,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
