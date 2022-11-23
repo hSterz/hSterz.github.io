@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hannah Sterz"
   avatar           : "me.jpg"
-  bio              : "M.Sc. Student, Computer Science, TU Darmstadt"
+  bio              : "M.Sc. Student,<br> Computer Science,<br> TU Darmstadt"
   location         : "Darmstadt"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
