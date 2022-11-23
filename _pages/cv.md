@@ -35,7 +35,8 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022/01: Teaching Assistant, <b> ALPS Winter School</b>
+  * Assisting in the QA-session and the lab on adapter-transformers.
   
+* 04/2019 - 07/2020:  Student Assistant in Teaching, <b> TU Darmstadt</b>
+  * Teaching concets taught in the lecture during exercise sessions and providing individual support during offife hours.

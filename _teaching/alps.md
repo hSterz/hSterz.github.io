@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - ALPS Winter School"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-alps
