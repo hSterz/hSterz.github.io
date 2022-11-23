@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, TU Darmstadt, 2021
 * M.S. in Computer Science, TU Darmstadt, 2023 (expected)
+* B.S. in Computer Science, TU Darmstadt, 2021
 
 Work experience
 ======
