@@ -39,4 +39,4 @@ Teaching
   * Assisting in the QA-session and the lab on adapter-transformers.
   
 * 04/2019 - 07/2020:  Student Assistant in Teaching, <b> TU Darmstadt</b>
-  * Teaching concets taught in the lecture during exercise sessions and providing individual support during offife hours.
+  * Teaching concepts taught in the lecture during exercise sessions and providing individual support during office hours.
