@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, TU Darmstadt, 2023 (expected)
+* PhD. in Computation, Cognition and Language, University of Cambridge, 2026 (expected)
+* M.S. in Computer Science, TU Darmstadt, 2023 
 * B.S. in Computer Science, TU Darmstadt, 2021
 
 Work experience
 ======
-* 10/2022 - present : Student Research Assistant, <b> Ubiquitous Knowledge Processing Lab </b>
+* 10/2022 - 03/2023 : Student Research Assistant, <b> Ubiquitous Knowledge Processing Lab </b>
   * Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
 
-* 11/2020 - 05/2022: Data Engineering intern, <b> Meta </b>
+* 11/2020 - 05/2022: Data Engineering Intern, <b> Meta </b>
   
 
 * 11/2020 - 05/2022: Student Research Assistant, <b> Ubiquitous Knowledge Processing Lab </b>
