@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* 07/2020 - 10/2022: Intern of Technical Staff, <b> Cohere </b>
+
 * 10/2022 - 03/2023 : Student Research Assistant, <b> Ubiquitous Knowledge Processing Lab </b>
   * Research and engineering for the [AdapterHub project](https://adapterhub.ml/). Extend and maintain the open source code base.
 
