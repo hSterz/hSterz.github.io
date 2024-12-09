@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD. in Computation, Cognition and Language, University of Cambridge, 2026 (expected)
+* PhD. in Computation, Cognition and Language, University of Cambridge, 2027 (expected)
 * M.S. in Computer Science, TU Darmstadt, 2023 
 * B.S. in Computer Science, TU Darmstadt, 2021
 
@@ -38,6 +38,9 @@ Publications
   
 Teaching
 ======
+* 04/2019 - 07/2020:  Supervisor, <b> University of Cambridge</b>
+  * Supporting students by going over important concepts in supervisions and with feedback on submitted work
+
 * 2022/01: Teaching Assistant, <b> ALPS Winter School</b>
   * Assisting in the QA-session and the lab on adapter-transformers.
   
